@@ -207,3 +207,11 @@ section { padding: 92px 0; }
 /* Real client logo strip (transparent PNG) */
 .logo-strip-img { display: block; width: 100%; max-width: 940px; height: auto; margin: 44px auto 0; }
 @media (max-width: 880px) { .logo-strip-img { max-width: 100%; } }
+
+/* === Center-align all content segments === */
+.section-head { text-align: center; margin-left: auto; margin-right: auto; }
+.points { margin-left: auto; margin-right: auto; }
+.point { justify-content: center; text-align: center; }
+.card { text-align: center; align-items: center; }
+.result { text-align: center; }
+.quote { text-align: center; }
