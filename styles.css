@@ -165,7 +165,7 @@ section { padding: 92px 0; }
   display: none; align-items: center; justify-content: center; text-align: center;
   color: var(--muted); font-size: 14px; padding: 24px; border: 1px dashed var(--line-strong);
 }
-.pull-quote { font-size: 24px; font-style: italic; color: var(--ink); max-width: 22ch; margin-top: 22px; }
+.pull-quote { font-size: 23px; font-style: italic; color: var(--ink); max-width: none; text-align: center; margin-top: 22px; }
 
 .prose { text-align: center; }
 .prose p { font-size: 18px; margin-bottom: 22px; max-width: 64ch; margin-left: auto; margin-right: auto; }
